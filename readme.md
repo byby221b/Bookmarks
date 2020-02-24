@@ -24,5 +24,5 @@
 
 ### :electric_plug: Tools
 
-[aeXiv Analytics](http://arxitics.com/)
+[arXiv Analytics](http://arxitics.com/)
 
