@@ -16,6 +16,8 @@
 
 [ESL](https://esl.hohoweiya.xyz/index.html)
 
+[UC Berkeley Statistics Graduate Student Association](http://sgsa.berkeley.edu/current_students/career/)
+
 ### :star: Econometric 
 
 [Econometric Thoery I](http://web.hku.hk/~pingyu/6005/6005.htm)
@@ -28,4 +30,7 @@
 
 [R语言教程](http://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html)
 
-[Julia](https://cn.julialang.org/JuliaZH.jl/dev/)
+[Julia中文文档](https://cn.julialang.org/JuliaZH.jl/dev/)
+
+[Julia语言入门](http://www.math.pku.edu.cn/teachers/lidf/docs/Julia/JuliaIntro.html)
+
