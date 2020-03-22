@@ -34,3 +34,5 @@
 
 [Julia语言入门](http://www.math.pku.edu.cn/teachers/lidf/docs/Julia/JuliaIntro.html)
 
+[Julia Learning resources](https://julialang.org/learning/#learning_resources)
+
